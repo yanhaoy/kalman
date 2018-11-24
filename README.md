@@ -7,6 +7,6 @@
 考虑切换追踪装甲片时的预测、处理逻辑。
 。。。
 
-![image](https://github.com/yyh2503/kalman/example/1.gif)
-![image](https://github.com/yyh2503/kalman/example/2.gif)
-![image](https://github.com/yyh2503/kalman/example/3.gif)
+![image](https://github.com/yyh2503/kalman/blob/master/example/1.gif)
+![image](https://github.com/yyh2503/kalman/blob/master/example/2.gif)
+![image](https://github.com/yyh2503/kalman/blob/master/example/3.gif)
